@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Owner","Various types of owners"]],"fn":[["from_path","Parse a CODEOWNERS file existing at a given path"],["from_reader","Parse a CODEOWNERS file from some readable source"],["locate","Attempts to locate CODEOWNERS file based on common locations relative to a given git repo"]],"struct":[["Owners","Mappings of owners to path patterns"]]});
